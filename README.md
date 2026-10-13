@@ -116,3 +116,8 @@ src/main/java/de/fitconnectdemo/
   Check all three before publishing any fork or copy.
 - Everything in this repo was built against the TEST environment only; nothing here carries
   production credentials.
+
+## License
+
+[MIT](LICENSE)
+
