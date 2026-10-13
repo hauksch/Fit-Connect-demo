@@ -1,0 +1,31 @@
+# --- Secrets & locally generated material (NEVER commit) ---
+.env
+keys/
+var/
+
+# --- Local toolchain (JDK, Gradle distribution, vendored SDK sources) ---
+.toolchain/
+
+# --- Gradle ---
+.gradle/
+build/
+
+# --- IDEs ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+*.launch
+
+# --- Logs & OS noise ---
+*.log
+.DS_Store
+Thumbs.db
+
+# --- Assistant session artifacts ---
+.zcode/
